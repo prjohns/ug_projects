@@ -4,6 +4,8 @@
 
 Ideally these should be made in software like KiCAD, and then printed professionally. They can also be done by hand on prototyping board.
 
+These projects are generally based on the Seeed Studio XIAO SAMD21, which has documentation at: https://wiki.seeedstudio.com/Seeeduino-XIAO/
+
 ## Complexity ordering of these projects
 
 1. `input_adc_board` - Very Easy - This is just a breakout for the microcontroller, commercial versions of this already exist.
